@@ -1,13 +1,13 @@
 # hoku
 Hoku is a visual Internet platform that consolidates the fragmented digital experience into unified, navigable information spaces. Hoku: "Visualize the Internet like never before."
 
-<a href="https://github.com/hoku3D/hoku/releases/tag/Hoku">Download Latest Hoku APK Release</a>
+<b><a href="https://github.com/hoku3D/hoku/releases/tag/Hoku">Download Latest Hoku APK Release</a><b>
 
-YouTube Hoku Video Promo:
+<b>YouTube Hoku Video Promo:<b>
 
 [![Watch Hoku Promo](https://img.youtube.com/vi/XSukYrwvUpM/0.jpg)](https://www.youtube.com/watch?v=XSukYrwvUpM)
 
-Hoku Screenshots:
+<b>Hoku Screenshots:<b>
 
 <img width="1920" height="1080" alt="hoku1" src="https://github.com/user-attachments/assets/e0c02d96-dfc0-44b8-b4f0-e20cd93dbfc2" />
 <img width="1920" height="1080" alt="hoku2" src="https://github.com/user-attachments/assets/979e1e44-617a-44ba-8f44-f3d454c95d52" />
@@ -18,7 +18,7 @@ Hoku Screenshots:
 <img width="1920" height="1080" alt="hoku7" src="https://github.com/user-attachments/assets/e9efbf42-858c-4fdb-a597-9aa21e17d93f" />
 <img width="1920" height="1080" alt="hoku8" src="https://github.com/user-attachments/assets/d7c5adca-330f-4681-b696-2d80aba86cf8" />
 
-About Hoku:
+<b>About Hoku<b>
 
 In Hawaiian, Hoku means "star" and refers to the night of the full moon—a symbol of guidance. Just as Polynesian navigators used stars to chart their course across vast oceans, Hoku guides users through the infinite expanse of the Internet with clarity and purpose.
 Hoku is revolutionizing how humanity experiences digital information through unprecedented 3D visualization technology. By transforming linear browsing into spatial exploration, Hoku enables users to see more data, process this data faster, and discover connections in the data that would take hours to find through traditional browsing—ultimately saving vast amounts of time. The Hoku platform represents the evolution of Internet interaction—from fragmented two-dimensional pages to unified 3D information landscapes.
