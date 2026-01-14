@@ -2,9 +2,11 @@
 Hoku is a visual Internet platform that consolidates the fragmented digital experience into unified, navigable information spaces. Hoku: "Visualize the Internet like never before."
 
 YouTube Hoku Video Promo:
+
 [![Watch Hoku Promo](https://img.youtube.com/vi/XSukYrwvUpM/0.jpg)](https://www.youtube.com/watch?v=XSukYrwvUpM)
 
 Hoku Screenshots:
+
 <img width="1920" height="1080" alt="hoku1" src="https://github.com/user-attachments/assets/e0c02d96-dfc0-44b8-b4f0-e20cd93dbfc2" />
 <img width="1920" height="1080" alt="hoku2" src="https://github.com/user-attachments/assets/979e1e44-617a-44ba-8f44-f3d454c95d52" />
 <img width="1920" height="1080" alt="hoku3" src="https://github.com/user-attachments/assets/fba6e8c1-5289-4da9-b39a-4af277f4ccac" />
