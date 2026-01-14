@@ -1,6 +1,8 @@
 # hoku
 Hoku is a visual Internet platform that consolidates the fragmented digital experience into unified, navigable information spaces. Hoku: "Visualize the Internet like never before."
 
+<a href="https://github.com/hoku3D/hoku/releases/tag/Hoku">Download Latest Hoku APK Release</a>
+
 YouTube Hoku Video Promo:
 
 [![Watch Hoku Promo](https://img.youtube.com/vi/XSukYrwvUpM/0.jpg)](https://www.youtube.com/watch?v=XSukYrwvUpM)
